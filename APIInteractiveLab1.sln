@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIInteractiveLab1", "APIInteractiveLab1\APIInteractiveLab1.csproj", "{9DADD9B6-6ACA-4728-8D94-0EC45519DD05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIInteractiveLab1Tests", "APIInteractiveLab1Tests\APIInteractiveLab1Tests.csproj", "{413EBF9A-8FAF-4BBC-AF3F-21A1C36F14EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DADD9B6-6ACA-4728-8D94-0EC45519DD05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DADD9B6-6ACA-4728-8D94-0EC45519DD05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DADD9B6-6ACA-4728-8D94-0EC45519DD05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DADD9B6-6ACA-4728-8D94-0EC45519DD05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{413EBF9A-8FAF-4BBC-AF3F-21A1C36F14EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413EBF9A-8FAF-4BBC-AF3F-21A1C36F14EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{413EBF9A-8FAF-4BBC-AF3F-21A1C36F14EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413EBF9A-8FAF-4BBC-AF3F-21A1C36F14EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58143A47-8EDA-40B4-A5C7-AB56ABC719FA}
+	EndGlobalSection
+EndGlobal
